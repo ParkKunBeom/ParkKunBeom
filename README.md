@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 팀 개발을 위한 git gihub 시작하기
+![1729942964104-1 (2)](https://github.com/user-attachments/assets/4fd8b7cc-8213-4ffb-807a-8a1c0b191368)
+## 🐶:안녕하세요? 감자에요🥔
+- 👨‍🎓저는 열심히 공부중이에요
+- 💩공부는 언제나 똥같아요
+- 🥇1등이 목표에요
 
 <!--
 **ParkKunBeom/ParkKunBeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
